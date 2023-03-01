@@ -70,7 +70,8 @@ By accessing and using the App, you confirm your agreement to be bound by these 
 
 ### Device Description
 
-The EYE-DR is an application designed to facilitate in fundus image acquisition and screening. 
+The EYE-DR is an application designed to facilitate in fundus image acquisition and screening.  
+
 EYE-DR Application  
 Version:1  
 Built: 2022-10-31  
