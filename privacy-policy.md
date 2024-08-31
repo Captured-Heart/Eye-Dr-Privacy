@@ -15,7 +15,18 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 ### Information Collection and Use  
 For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to the user's name, email address, gender, location, and pictures. The information that we request will be retained by us and used as described in this privacy policy.  
 The app does use third-party services that may collect information used to identify you. 
+Collecting and Using Your Personal Data
+For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to the user's name, email address, gender, location, and pictures. The information that we request will be retained by us and used as described in this privacy policy.
+The app does use third-party services that may collect information used to identify you.
 
+Types of Data Collected
+Personal Data While using Our Service, We may ask You to provide Us with certain personally identifiable information that can be used to contact or identify You. Personally identifiable information may include, but is not limited to:
+
+Email address
+
+First name and last name
+
+Phone number
 ### Cookies  
 Cookies are files with a small amount of data that is commonly used as an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your device’s internal memory.  
 
